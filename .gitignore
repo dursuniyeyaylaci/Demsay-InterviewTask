@@ -1,0 +1,7 @@
+/build/
+/.cache/
+*.launch
+
+/Release/
+/Debug/*
+!/Debug/tasarim.hex
